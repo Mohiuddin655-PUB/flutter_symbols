@@ -4,7 +4,6 @@ The flutter_symbols package provides a collection of SymbolIcons, which function
 IconData in Flutter. It also includes a wide range of symbols such as ∕, allowing developers to
 easily integrate these symbols into their Flutter apps, improving the visual representation of
 content.
-![Screenshot_20241019_101259.png](Screenshot_20241019_101259.png)
 
 ## Use case
 
@@ -67,3 +66,5 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
+
+#### ![Screenshot_20241019_101259.png](Screenshot_20241019_101259.png)
