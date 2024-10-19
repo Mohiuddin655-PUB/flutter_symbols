@@ -1,10 +1,10 @@
 name: flutter_symbols
-description: "A new Flutter project."
+description: "The flutter_symbols package provides a collection of SymbolIcons, which function similarly to IconData in Flutter. It also includes a wide range of symbols such as ∕, allowing developers to easily integrate these symbols into their Flutter apps, improving the visual representation of content."
 version: 1.0.0
-homepage:
+repository: https://github.com/Mohiuddin655-PUB/flutter_symbols
 
 environment:
-  sdk: ^3.0.0
+  sdk: '>=3.0.0 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:

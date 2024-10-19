@@ -4970,4 +4970,10 @@ enum Symbols {
       return Symbols.none;
     });
   }
+
+  @override
+  String toString() {
+    super.toString();
+    return symbol;
+  }
 }
